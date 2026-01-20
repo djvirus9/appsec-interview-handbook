@@ -97,6 +97,13 @@ A curated, senior-level AppSec interview prep repository with questions and conc
 - `Infrastructure-Cloud/Cloud-Posture/Scenarios.md`
 - `Infrastructure-Cloud/Cloud-Posture/Resources.md`
 
+## Secure Code Review
+
+- `secure-code-review/README.md`
+- `secure-code-review/vulnerable-snippets.md`
+- `secure-code-review/checklists.md`
+- `secure-code-review/remediation-patterns.md`
+
 ## How to Crawl for More Data
 
 Use GitHub search to find additional lists to merge into yours:
